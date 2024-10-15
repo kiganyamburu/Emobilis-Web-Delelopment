@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> HTML Tables</title>
+    <style>
+        body {
+            font-family: Arial;
+        }
+        table, tr, th, td{
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+        h3{
+            border: 4px solid blue;
+            border-radius: 10px;
+}
+        .table-head{
+            background-color: green;
+            color: white;
+}
+        #jj{
+            background-color: red;
+            color: white;
+}
+
+}
+/*when working with border you need to take care of 3 things  color of the border, type of the border(sold or dotted) and  thickness of the boader*/
+    </style>
+</head>
+<body>
+<!--Table-->
+<!--columns runs vertically -->
+<!--raws runs horizontally-->
+<!--when working with tables make sure you start with raws (tr) th -->
+<h3>Html tables </h3>
+<table id="table-one">
+  <tr class="table-head">
+
+    <th>Rank</th>
+      <th>Names</th>
+      <th>Points</th>
+      <th>Team</th>
+  </tr>
+<!--    ids can never be the same-->
+    <tr id="jj">
+        <td>1</td>
+        <td>Peter</td>
+        <td>90</td>
+        <td>A</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>John</td>
+        <td>50</td>
+        <td>B</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Tom</td>
+        <td>10</td>
+        <td>C</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Jerry</td>
+        <td>70</td>
+        <td>D</td>
+    </tr>
+</table>
+<!--<a href="" ><img src="" alt=""></a>-->
+<!--working with image as links-->
+</body>
+</html>
