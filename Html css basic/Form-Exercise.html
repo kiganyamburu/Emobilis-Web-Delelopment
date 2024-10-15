@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Form exercise</title>
+    <style>
+        body{
+            background-color: lightblue;
+        }
+        .submit{
+            background-color: red;
+            width: 100px;
+            border-radius: 5px;
+            padding: 5px 10px;
+        }
+        .reset{
+            background-color: red;
+            width: 100px;
+            border-radius: 5px;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+<h1>Application Form</h1>
+<form action="">
+    <label>First Name: </label>
+    <input type="text">
+
+    <label>Last Name: </label>
+    <input type="text"><br><br>
+
+    <label>Date of Birth</label>
+    <input type="date">
+
+     <label>Age: </label>
+    <input type="number"><br><br>
+
+    <label>Gender</label>
+    <input type="checkbox" name="gender" value="male">Male</input>
+    <input type="checkbox" name="gender" value="Female">Female</input>
+
+    <label for="">Email Address</label>
+    <input type="email" placeholder="Enter email address"></input><br><br>
+
+
+     <label for="">Position Available</label>
+    <input type="radio" name="position" value="job">Junior Developer</input>
+    <input type="radio" name="position" value="job">Mid-Level Developer</input>
+    <input type="radio" name="position" value="job">Senior Developer</input><br><br>
+
+    <label for="">Programming Languages:</label>
+    <input type="radio" name="programming" value="html">Java</input>
+    <input type="radio" name="programming" value="html">JavaScript</input>
+    <input type="radio" name="programming" value="html">Python</input><br><br>
+
+
+    <label for="">Password:</label>
+    <input type="password"></input>
+
+
+    <label for="">Confirrm Password:</label>
+    <input type="password"> <br><br>
+
+    <input class="submit" type="submit" value="Submit">
+    <input class="reset" type="submit" value="Reset">
+
+</form>
+</body>
+</html>
