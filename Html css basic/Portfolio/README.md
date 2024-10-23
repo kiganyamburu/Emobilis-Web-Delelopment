@@ -112,11 +112,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/portfolio-website/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/kiganyamburu/Emobilis-Web-Delelopment/tree/branch-2/Html%20css%20basic/Portfolio.)
 
 ## 📧 Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
+Your Name - [Peter Mburu](mburukiganya@email.com)
 
 Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
 
