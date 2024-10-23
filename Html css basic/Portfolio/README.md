@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio website built for showcasing a full-stack developer's skills, projects, and professional experience. The website is built using HTML, CSS, and Bootstrap 5, making it easily customizable and maintainable.
 
-![Portfolio Preview](!images/img.png)
+![Portfolio Preview](images/img.png)
 
 ## 🚀 Features
 
@@ -43,7 +43,7 @@ A modern and responsive portfolio website built for showcasing a full-stack deve
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio-website
+   cd Emobilis-Web-Delelopment
    ```
 
 3. Open `index.html` in your preferred browser or set up a local server.
