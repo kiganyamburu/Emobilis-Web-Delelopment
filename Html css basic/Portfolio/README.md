@@ -118,7 +118,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Your Name - [Peter Mburu](mburukiganya@email.com)
 
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/kiganyamburu/Emobilis-Web-Delelopment/tree/branch-2/Html%20css%20basic/Portfolio)
+Project Link: [https://github.com/kiganyamburu/Emobilis-Web-Delelopment/tree/branch-2/Html%20css%20basic/Portfolio](https://github.com/kiganyamburu/Emobilis-Web-Delelopment/tree/branch-2/Html%20css%20basic/Portfolio)
 
 ## 🙏 Acknowledgments
 
