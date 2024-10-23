@@ -2,7 +2,7 @@
 
 A modern and responsive portfolio website built for showcasing a full-stack developer's skills, projects, and professional experience. The website is built using HTML, CSS, and Bootstrap 5, making it easily customizable and maintainable.
 
-![Portfolio Preview](/api/placeholder/800/400)
+![Portfolio Preview](!images/img.png)
 
 ## 🚀 Features
 
@@ -118,7 +118,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Your Name - [Peter Mburu](mburukiganya@email.com)
 
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
+Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/kiganyamburu/Emobilis-Web-Delelopment/tree/branch-2/Html%20css%20basic/Portfolio)
 
 ## 🙏 Acknowledgments
 
