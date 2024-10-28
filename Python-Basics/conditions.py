@@ -1,2 +1,2 @@
-# There are only 3 posibilies
-a number can be 
+# There are only 3 posibilies when working
+a number can be
