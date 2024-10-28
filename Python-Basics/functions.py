@@ -18,5 +18,17 @@ def test():
 
 def greet():
     name = str(input("What is your name? "))
-    return name
-greet()
+    return print(f"Hello {name}")
+
+
+
+# def addSum():
+#     num1 = int(input("Enter the  first number? "))
+#     num2 = int(input("Enter the  second number? "))
+#     return num1 + num2
+
+
+# def add(num1,num2):
+#     return num1+num2
+# print(num1 = 2, num1 = 3)
+# add()
