@@ -12,13 +12,13 @@
 #         print("less than 10")
 # sum()
 
-
-def test():
-    print("test")
-
-def greet():
-    name = str(input("What is your name? "))
-    return print(f"Hello {name}")
+#
+# def test():
+#     print("test")
+#
+# def greet():
+#     name = str(input("What is your name? "))
+#     return print(f"Hello {name}")
 
 
 
@@ -32,3 +32,54 @@ def greet():
 #     return num1+num2
 # print(num1 = 2, num1 = 3)
 # add()
+
+
+
+
+def square(x):
+    return x*x
+
+for i in range(10):
+    print(f"the square of{i} is {square(i)}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
