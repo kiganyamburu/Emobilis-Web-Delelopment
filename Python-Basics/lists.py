@@ -1,9 +1,5 @@
-from functions import test
-from functions import addSum
+# List are mutable meaning they can be changed
 
-test()
+names = ["peter", "John", "James"]
 
-# sum = addSum()
-# print(sum)
-
-print(addSum())
+print(names[2])
