@@ -1,6 +1,6 @@
 import cv2
 import sys
-
+from functions import sum
 
 def open_webcam():
     # Initialize video capture from default webcam (usually 0)
