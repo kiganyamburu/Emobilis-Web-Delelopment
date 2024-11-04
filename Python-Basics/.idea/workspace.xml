@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3364657d-1e8b-4bd8-a867-8b52cea54b26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/more/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,41 +33,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Day1-Decoding Crab Messages at the Seaside.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.disctionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gradingsystem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.into.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lambad.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.squares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.statements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.temperature conversion app.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nduta/Downloads/Emobilis/Python-Basics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Day1-Decoding Crab Messages at the Seaside.executor": "Run",
+    "Python.classes.executor": "Run",
+    "Python.conditions.executor": "Run",
+    "Python.decorators.executor": "Run",
+    "Python.disctionaries.executor": "Run",
+    "Python.exceptions.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.gradingsystem.executor": "Run",
+    "Python.into.executor": "Run",
+    "Python.lambad.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.lists.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.numbers.executor": "Run",
+    "Python.sets.executor": "Run",
+    "Python.squares.executor": "Run",
+    "Python.statements.executor": "Run",
+    "Python.temperature conversion app.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/nduta/Downloads/Emobilis/Django",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Basics" />
@@ -124,6 +122,7 @@
       <workItem from="1730360205123" duration="2973000" />
       <workItem from="1730393532596" duration="145000" />
       <workItem from="1730393698120" duration="22000" />
+      <workItem from="1730708487080" duration="1590000" />
     </task>
     <servers />
   </component>
