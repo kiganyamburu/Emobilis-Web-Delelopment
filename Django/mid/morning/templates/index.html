@@ -1,5 +1,7 @@
 {% extends 'layout.html' %}
 
+{% load static %}
+
 
 {% block body %}
 <p>
@@ -10,6 +12,8 @@ this is home page
     we are using jinja templating
 
     </p>
+
+    <img src="{% static 'images/rock.jpg'  %}" alt=""/>
 
 
 
