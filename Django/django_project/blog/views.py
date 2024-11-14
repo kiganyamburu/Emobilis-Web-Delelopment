@@ -12,7 +12,7 @@ posts = [
     },
 
     {
-        'author': 'jane doe',
+        'author': 'Jane doe',
         'title': 'Blog Post 2',
         'content': 'Second post content' ,
         'date_posted': 'August 28, 2018',
@@ -30,4 +30,4 @@ def home(request):
 
 
 def about(request):
-    return render(request, 'blog/about.html')
+    return render(request, 'blog/about.html', {"title": "About"})
