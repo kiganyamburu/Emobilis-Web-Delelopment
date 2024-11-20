@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-
-</body>
-</html>
+{% extends "tasks/layout.html" %}
+<ul>
+  {% for task in tasks %}
+      <li>{{ task }}</li>
+    {% endfor %}
+</ul>
