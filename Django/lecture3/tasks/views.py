@@ -2,7 +2,11 @@ from django.shortcuts import render
 
 from hello.views import index
 
+tasks = ["foo", "bar", "baz" ]
+
 
 # Create your views here.
-def tasks(request):
-    return render(request, index.html)
+def index(request):
+    return render(request, "tasks/index.html", {
+        'tasks': tasks,
+    })
