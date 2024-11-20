@@ -5,4 +5,4 @@ from hello.views import index
 
 # Create your views here.
 def tasks(request):
-    return render(request, )
+    return render(request, index.html)
